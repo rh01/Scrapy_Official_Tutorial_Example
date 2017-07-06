@@ -1,0 +1,4 @@
+.idea/
+zhihuuser/__pycache__/
+zhihuuser/spiders/__pycache__/
+*.pyc
